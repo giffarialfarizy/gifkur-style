@@ -10,7 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/giffarialfarizy/gifkur-style.git"
   },
-  "author": "",
+  "author": {
+    "name": "Giffari Alfarizy",
+    "email": "giffarialfarizy@gmail.com",
+    "url": "https://www.linkedin.com/in/giffari-alfarizy/"
+  },
+  "contributors": [
+    {
+      "name": "Kurniawan Adhi Ramdhani",
+      "email": "adhi.kurni@gmail.com",
+      "url": "https://www.linkedin.com/in/kurniawan-adhi-ramdhani-8955647b/"
+    }
+  ],
   "license": "MIT",
   "homepage": "",
   "devDependencies": {
